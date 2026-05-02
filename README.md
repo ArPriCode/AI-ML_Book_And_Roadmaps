@@ -28,3 +28,6 @@ http://deeplearning.ai
 
 10 - Hugging Face:  
 http://huggingface.co/learn
+
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/2e2b701d-e60e-4355-afe1-bbc0d60db923" />
+
